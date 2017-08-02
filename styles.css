@@ -1,0 +1,36 @@
+.main_title {
+  padding: 1em;
+}
+
+.main_title, .content_heading, .content_email, .content_contact, .content_ssn {
+  font-family: Tahoma, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.main_title, .content_heading, .content_email {
+  text-transform: uppercase;
+}
+
+.individual_people {
+  display: inline-block;
+  margin: 0.5em;
+
+}
+
+img {
+  width: 335px;
+}
+
+.image, .content_heading, .content_email, .content_contact, .content_ssn {
+  display: block;
+  text-align: center;
+}
+
+.content_heading, .content_email {
+  font-size: 1.2em;
+}
+
+.content_contact, .content_ssn {
+  font-size: 1.2em;
+}
