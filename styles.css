@@ -34,3 +34,11 @@ img {
 .content_contact, .content_ssn {
   font-size: 1.2em;
 }
+
+.name {
+  /*text-decoration-line: underline;
+  text-decoration-color: green;
+  padding-bottom: 5px;*/
+
+  border-bottom: 5px solid green;
+}
